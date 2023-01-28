@@ -8,7 +8,7 @@
 * For Public Channels Bot is used to forward.
 
 ### Deploy to Heroku
-[![Deploy](https://www.heroku.com/deploy/button.svg)](https://github.com/sky-botz/MX-Fwd-Bot)
+[![Deploy](https://www.heroku.com/deploy/?template=https://github.com/sky-botz/MX-Fwd-Bot)
 
 ### Variables
 
@@ -24,7 +24,7 @@
 
 ### VPS deploying -
 ``` 
-git clone https://github.com/Mokshb6458/public-forward-bot && cd public-forward-bot
+git clone https://github.com/sky-botz/MX-Fwd-Bot && cd MX-Fwd-Bot
 ```
 ```
 apt install python3-pip
